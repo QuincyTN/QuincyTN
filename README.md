@@ -1,4 +1,5 @@
-This profile belongs to Quincy Nguyen.
-I am a 4th year computer engineering student at SDSU.
-I like to watch movies in my free time. 
-My favorite movie is Princess Mononoke.
+👋 Hi, I’m Quincy Nguyen.
+👀 I’m interested in movies, manhwa, computer components, and 
+🌱 I’m a 4th year computer engineering student at SDSU.
+💞️ I’m looking to learn more about computer architecture and design and embedded systems.
+🎓 I hope to graduate with my BS in 2025.
